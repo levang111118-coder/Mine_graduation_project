@@ -1,3 +1,2 @@
 # Mine_graduation_project
-Theme might change, so dont expect anything (atleast for now)
-Im gonna put memes there(there is absolutely no reason to do this,but Ill do it)
+The main theme for this project is Ecology, so i made a telegram bot . which sends facts every day and quiz everyweek
